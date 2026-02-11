@@ -4,6 +4,6 @@ Chess utilities for Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/mishoo/queen.lisp.git |
-| commit  | a5a2447                                      |
+| commit  | 35fdf11                                      |
 | systems | queen                                        |
 |---------+----------------------------------------------|
