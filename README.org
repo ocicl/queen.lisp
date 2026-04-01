@@ -7,3 +7,4 @@ Chess utilities for Common Lisp
 | commit  | 35fdf11                                      |
 | systems | queen                                        |
 |---------+----------------------------------------------|
+ 
